@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinusharma
+- 👋 Hi, I’m @vinusharma
 - 👀 I’m interested in cyber forensics
 - 🌱 I’m currently learning Digital forensics 
 
