@@ -1,4 +1,3 @@
-(![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjxzzPG_1iBejzwPC8LxjPrAct0YJhE6mFg&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Vinayak sharma</h1>
 <h3 align="center">A passionate volunteer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAS/hacking.gif">
