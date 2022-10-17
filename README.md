@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vinusharma
 - 👀 I’m interested in cyber forensics
-- 🌱 I’m currently learning forensics
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Digital forensics 
 
 <!---
 Vinusharma/Vinusharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
