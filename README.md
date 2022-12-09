@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak sharma</h1>
-<h3 align="center">A passionate volunteer from India</h3>
+<h3 align="center">A Phychopath</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAS/hacking.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Osint analyst**
 
-- 🌱 I’m currently learning **Digital forensics**
+- 🌱 I’m currently learning **Digital forensics & Cyber Psychology**
 
 - 👯 I’m looking to collaborate on **Cyber security**
 
