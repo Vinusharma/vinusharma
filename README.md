@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/v1nusharma" target="blank"><img src="https://img.shields.io/twitter/follow/v1nusharma?logo=twitter&style=for-the-badge" alt="v1nusharma" /></a> </p>
 
-- 🔭 I’m currently working on **Osint analyst**
+- 🔭 I’m currently working on **Osint**
 
 - 🌱 I’m currently learning **Digital forensics & Cyber Psychology**
 
-- 👯 I’m looking to collaborate on **Cyber security**
+- 👯 I’m looking to collaborate on **Cyber Security**
 
-- 💬 Ask me about **Osint , digital forensics, cyber security**
+- 💬 Ask me about **Osint , digital forensics, cyber security, Cyber Psychology**
 
 - 📫 How to reach me **vinusharma.me@gmail.com**
 
