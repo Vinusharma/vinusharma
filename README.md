@@ -11,15 +11,13 @@
 
 - 🔭 I’m currently working on **Osint**
 
-- 🌱 I’m currently learning **Digital forensics & Cyber Psychology**
+- 🌱 I’m currently learning **Digital forensics & Cyber Law**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
-- 💬 Ask me about **Osint , digital forensics, cyber security, Cyber Psychology**
+- 💬 Ask me about **Osint , digital forensics, cyber security, CyberLaw**
 
-- 📫 How to reach me **vinusharma.me@gmail.com**
-
-- ⚡ Fun fact **I think I am funny but i am not !**
+- 📫 How to reach me **vinusharma@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
